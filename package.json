@@ -1,0 +1,23 @@
+{
+  "name": "lesson2",
+  "version": "0.0.1",
+  "description": "This is Lesson 2 on CSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harpreet93/Lesson-2.git"
+  },
+  "keywords": [
+    "html",
+    "CSS"
+  ],
+  "author": "Harpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harpreet93/Lesson-2/issues"
+  },
+  "homepage": "https://github.com/Harpreet93/Lesson-2#readme"
+}
